@@ -2,4 +2,4 @@
 <p> weght-75<p>
 <p> color of eye- brown>
 <p>color of hair-dark<p>
-<p>cokor of sckin- white<p>
+<p>color of sckin- white<p>
